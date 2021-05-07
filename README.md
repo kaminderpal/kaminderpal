@@ -1,7 +1,11 @@
 👋 Hi, I’m @kaminderpal
+
 👀 I’m interested in blockchain development
+
 🌱 I’m currently learning developing dapps.
+
 💞️ I’m looking to collaborate on blockchain apps.
+
 📫 How to reach me @kaminderpal
 
 I love designing, creating, coding useful applications.
